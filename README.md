@@ -160,64 +160,6 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
 
 <hr/>
 
-<!-- PROJECTS -->
-<h2 align="left">🚀 Featured Projects</h2>
-
-<ul>
-  <li>
-    <b>🔹 Caliber — Inventory Scoring AI Agent</b><br/>
-    AI system that scores programmatic inventory quality using campaign KPIs + LLM reasoning.<br/>
-    <i>Tech:</i> FastAPI, PostgreSQL, Redis, Celery, OpenAI, Vector DB
-  </li>
-  <br/>
-  <li>
-    <b>🔹 RAG Profile Agent (Recruiter Assistant)</b><br/>
-    LangGraph assistant answering questions about my resume/projects with retrieval + memory + observability.<br/>
-    <i>Tech:</i> FastAPI, LangGraph, pgvector, Redis, WebSockets, LangSmith
-  </li>
-  <br/>
-  <li>
-    <b>🔹 Expense Tracker API</b><br/>
-    Finance backend: CRUD + analytics + receipt upload + PDF reporting + dashboards.<br/>
-    <i>Tech:</i> FastAPI, PostgreSQL, SQLAlchemy, Celery, Redis, Docker, GitHub Actions
-  </li>
-</ul>
-
-<hr/>
-
-<!-- STATS -->
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=azim-khamis07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=azim-khamis07&theme=dark&hide_border=false" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim-khamis07&theme=dark&hide_border=false&layout=compact" height="165"/>
-</p>
-
-<hr/>
-
-<!-- TROPHIES -->
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=azim-khamis07&theme=darkhub&no-frame=false&no-bg=true&margin-w=10" />
-</p>
-
-<hr/>
-
-<!-- SNAKE -->
-<h2 align="left">🐍 Contribution Snake</h2>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/azim-khamis07/azim-khamis07/output/snake.svg" alt="Snake animation" />
-</p>
-
-<hr/>
-
-<!-- CONNECT -->
-<h2 align="left">📫 Let’s Connect!</h2>
 
 <p align="left">
 I'm actively looking for opportunities to work on cutting-edge AI/ML projects where I can leverage my FastAPI expertise and RAG system experience.
@@ -228,7 +170,6 @@ I'm actively looking for opportunities to work on cutting-edge AI/ML projects wh
 🏢 Full-time positions (Remote/Hybrid)<br/>
 💼 Consulting & freelance projects<br/>
 🤝 Open source collaborations<br/>
-🎤 Speaking at tech conferences/meetups<br/>
 </p>
 
 <p align="left">
@@ -244,5 +185,4 @@ I'm actively looking for opportunities to work on cutting-edge AI/ML projects wh
   <img src="https://visitcount.itsvg.in/api?id=azim-khamis07&icon=0&color=0" />
 </p>
 
-<h3 align="center">⭐ If you find my work interesting, consider starring my repositories!</h3>
 <h4 align="center">Building the future of AI-powered applications — one API endpoint at a time 🚀</h4>
