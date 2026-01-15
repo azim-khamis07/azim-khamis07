@@ -3,18 +3,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/azim-khamis-033034241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Azim%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Azim%20Khamis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:azim.khamis07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-azim.khamis07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-azim.khamis07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p align="left">
-🚀 <b>FastAPI Backend Developer</b> | 🤖 <b>AI Engineer (RAG + LLM Agents)</b> | ☁️ <b>DevOps Enthusiast</b><br>
+🚀 <b>FastAPI Backend Developer</b> | 🤖 <b>AI Engineer (RAG + LLM Agents)</b> | ☁️ <b>DevOps Enthusiast</b><br/>
 📍 United States | Open to Remote / Hybrid roles
 </p>
 
@@ -24,7 +24,7 @@
 
 <hr/>
 
-<!-- ABOUT ME -->
+<!-- ABOUT -->
 <h2 align="left">About Me</h2>
 
 <p align="left">
@@ -43,9 +43,9 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
 </p>
 
 <p align="left">
-✨ Creating bugs since 2018 <br>
-📚 Currently learning: System Design + AWS Production Deployments + LLM Observability <br>
-🎯 Goal: Land a Backend / AI Engineering role building real-world AI products <br>
+✨ Creating bugs since 2018 <br/>
+📚 Currently learning: System Design + AWS Production Deployments + LLM Observability <br/>
+🎯 Goal: Land a Backend / AI Engineering role building real-world AI products <br/>
 🎲 Fun fact: I love building tools that automate boring tasks (and turning them into SaaS)
 </p>
 
@@ -55,40 +55,55 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
 <h2 align="left">🧠 What I’m Focused On</h2>
 
 <p align="left">
-✅ Building production-ready FastAPI APIs <br>
-✅ RAG systems with vector DBs & retrieval optimization <br>
-✅ LLM agent pipelines (tool calling, memory, workflows) <br>
-✅ Deploying full backend systems to AWS (CI/CD + IaC) <br>
+✅ Building production-ready FastAPI APIs <br/>
+✅ RAG systems with vector DBs & retrieval optimization <br/>
+✅ LLM agent pipelines (tool calling, memory, workflows) <br/>
+✅ Deploying full backend systems to AWS (CI/CD + IaC) <br/>
 </p>
 
 <hr/>
 
-<!-- TECH STACK ICONS -->
+<!-- TECH STACK (RENDER-SAFE BADGES) -->
 <h2 align="left">⚡ Tech Stack</h2>
 
-<h3 align="left">I code with</h3>
+<h3 align="left">🐍 Backend & API Development</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-1F2937?style=for-the-badge&logo=alembic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="redis logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="42" alt="github actions logo" />
-</div>
+<h3 align="left">🤖 AI / ML & LLM Engineering</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge&logo=langsmith&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-2563EB?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-EA4AAA?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
+
+<h3 align="left">☁️ DevOps & Infrastructure</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
 <hr/>
 
-<!-- TECHNICAL SKILLS (DETAILS) -->
+<!-- TECHNICAL SKILLS DETAILS -->
 <h2 align="left">🧩 Technical Skills</h2>
 
 <details open>
@@ -96,7 +111,6 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
   <br/>
   <b>FastAPI • Python • Pydantic • SQLAlchemy • Alembic • Celery • Redis • PostgreSQL</b>
   <br/><br/>
-  <b>Expertise:</b><br/>
   ⚡ High-performance async APIs with FastAPI<br/>
   🔐 JWT/OAuth2 authentication & authorization<br/>
   📊 RESTful API design & OpenAPI documentation<br/>
@@ -112,7 +126,6 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
   <br/>
   <b>LangChain • LangGraph • OpenAI • Hugging Face • LangSmith • Anthropic</b>
   <br/><br/>
-  <b>Core Competencies:</b><br/>
   🔍 RAG Systems: Multi-query, self-query, contextual compression<br/>
   🧠 Vector Databases: Pinecone, Weaviate, Qdrant, ChromaDB, pgvector<br/>
   📝 Embeddings: OpenAI, Sentence-BERT, BGE, Cohere<br/>
@@ -128,7 +141,6 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
   <br/>
   <b>Docker • Kubernetes • AWS • GitHub Actions • Terraform</b>
   <br/><br/>
-  <b>Infrastructure Skills:</b><br/>
   🐳 Containerization with Docker & Docker Compose<br/>
   ☸️ Kubernetes orchestration & Helm basics<br/>
   🚀 CI/CD pipelines (GitHub Actions)<br/>
@@ -139,16 +151,12 @@ I enjoy transforming complex ideas into scalable backend systems and agentic AI 
 
 <hr/>
 
-<!-- DATABASES & PLATFORMS -->
+<!-- DBs / Platforms -->
 <h2 align="left">💾 Databases</h2>
-<p align="left">
-PostgreSQL • MongoDB • Redis • Pinecone • pgvector
-</p>
+<p align="left">PostgreSQL • MongoDB • Redis • Pinecone • pgvector</p>
 
 <h2 align="left">🧩 AI Platforms</h2>
-<p align="left">
-OpenAI • Anthropic • Cohere • Hugging Face
-</p>
+<p align="left">OpenAI • Anthropic • Cohere • Hugging Face</p>
 
 <hr/>
 
@@ -177,21 +185,12 @@ OpenAI • Anthropic • Cohere • Hugging Face
 
 <hr/>
 
-<!-- FEATURED REPO CARDS -->
-<h2 align="left">📌 Pinned Highlights</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=azim-khamis07&repo=expense-tracker-backend&theme=dark" />
-</p>
-
-<hr/>
-
-<!-- GITHUB STATS -->
+<!-- STATS -->
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=azim-khamis07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azim-khamis07&theme=dark&hide_border=false" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=azim-khamis07&theme=dark&hide_border=false" height="165"/>
 </p>
 
 <p align="left">
@@ -209,9 +208,8 @@ OpenAI • Anthropic • Cohere • Hugging Face
 
 <hr/>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- SNAKE -->
 <h2 align="left">🐍 Contribution Snake</h2>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/azim-khamis07/azim-khamis07/output/snake.svg" alt="Snake animation" />
 </p>
@@ -241,7 +239,7 @@ I'm actively looking for opportunities to work on cutting-edge AI/ML projects wh
 
 <hr/>
 
-<!-- PROFILE VIEWS -->
+<!-- VIEWS -->
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=azim-khamis07&icon=0&color=0" />
 </p>
