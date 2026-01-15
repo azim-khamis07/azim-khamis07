@@ -184,5 +184,4 @@ I'm actively looking for opportunities to work on cutting-edge AI/ML projects wh
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=azim-khamis07&icon=0&color=0" />
 </p>
-
 <h4 align="center">Building the future of AI-powered applications — one API endpoint at a time 🚀</h4>
